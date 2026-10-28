@@ -1,6 +1,5 @@
-https://www.figma.com/proto/tP58l0Zu9q1BFFNLDviGKE/Untitled?t=NTFZRINYXNL5ip3i-1
-.
-
+prototype link : https://www.figma.com/proto/tP58l0Zu9q1BFFNLDviGKE/Untitled?t=NTFZRINYXNL5ip3i-1
+Design link :https://www.figma.com/design/tP58l0Zu9q1BFFNLDviGKE/Untitled?node-id=0-1&p=f&t=OwBHam9ca2cH3ntl-0
 📱 Project Preview
 
 FoodieGo provides a clean and attractive interface with an orange-themed design, making the application feel energetic and food-focused.
